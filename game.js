@@ -1,4 +1,4 @@
-//Test de branches - this is dev
+
 var buttonColours = ["red", "blue", "green", "yellow"];
 
 var gamePattern = [];
