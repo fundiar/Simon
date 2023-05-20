@@ -10,6 +10,13 @@ body {
   color: #fef2bf;
 }
 
+#to-title {
+  font-family: "Press Start 2P", cursive;
+  font-size: 2rem;
+  margin: 5%;
+  color: #fef2bf;
+}
+
 .container {
   display: block;
   width: 50%;
